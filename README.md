@@ -211,8 +211,4 @@ The project concludes that SSS is often simpler to implement correctly, while CR
 * Rohith Ganesh Kanchi (23BCE5049)
 * S.D. Madhumitha (23BCE5058)
 
-*(Based on the provided PDF for "Secure Image Sharing Using Threshold Cryptography...")*
-
 ---
-
-This README provides a detailed breakdown of the project as understood from the "Report_problem2.pdf".
